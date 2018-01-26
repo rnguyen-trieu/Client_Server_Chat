@@ -1,0 +1,27 @@
+c:\users\danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\bin\Debug\P4_Server.exe.config
+c:\users\danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\obj\Debug\P4_Server.Form1.resources
+c:\users\danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\obj\Debug\P4_Server.Properties.Resources.resources
+c:\users\danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\obj\Debug\P4_Server.csproj.GenerateResource.Cache
+C:\Users\Danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\bin\Debug\P4_Server.exe
+C:\Users\Danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\bin\Debug\P4_Server.pdb
+C:\Users\Danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\obj\Debug\P4_Server.csprojResolveAssemblyReference.cache
+C:\Users\Danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\obj\Debug\P4_Server.exe
+C:\Users\Danny\documents\visual studio 2015\Projects\P4_Server\P4_Server\obj\Debug\P4_Server.pdb
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\bin\Debug\P4_Server.exe.config
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\obj\Debug\P4_Server.exe
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\obj\Debug\P4_Server.pdb
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\obj\Debug\P4_Server.csprojResolveAssemblyReference.cache
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\obj\Debug\P4_Server.Form1.resources
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\obj\Debug\P4_Server.Properties.Resources.resources
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\obj\Debug\P4_Server.csproj.GenerateResource.Cache
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\bin\Debug\P4_Server.exe
+C:\Users\rtn5645\Desktop\P4_Server\P4_Server\bin\Debug\P4_Server.pdb
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\bin\Debug\P4_Server.exe.config
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\bin\Debug\P4_Server.exe
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\bin\Debug\P4_Server.pdb
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\obj\Debug\P4_Server.csprojResolveAssemblyReference.cache
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\obj\Debug\P4_Server.Form1.resources
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\obj\Debug\P4_Server.Properties.Resources.resources
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\obj\Debug\P4_Server.csproj.GenerateResource.Cache
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\obj\Debug\P4_Server.exe
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Server\P4_Server\obj\Debug\P4_Server.pdb

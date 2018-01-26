@@ -1,0 +1,26 @@
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\bin\Debug\P4_Client.exe.config
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\bin\Debug\P4_Client.exe
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\bin\Debug\P4_Client.pdb
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\obj\Debug\P4_Client.csprojResolveAssemblyReference.cache
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\obj\Debug\P4_Client.Form1.resources
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\obj\Debug\P4_Client.Properties.Resources.resources
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\obj\Debug\P4_Client.csproj.GenerateResource.Cache
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\obj\Debug\P4_Client.exe
+c:\users\danny\documents\visual studio 2015\Projects\P4_Client\P4_Client\obj\Debug\P4_Client.pdb
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\bin\Debug\P4_Client.exe.config
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\obj\Debug\P4_Client.exe
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\obj\Debug\P4_Client.pdb
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\bin\Debug\P4_Client.exe
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\bin\Debug\P4_Client.pdb
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\obj\Debug\P4_Client.csprojResolveAssemblyReference.cache
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\obj\Debug\P4_Client.Form1.resources
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\obj\Debug\P4_Client.Properties.Resources.resources
+C:\Users\rtn5645\Desktop\P4_Client\P4_Client\obj\Debug\P4_Client.csproj.GenerateResource.Cache
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\bin\Debug\P4_Client.exe.config
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\bin\Debug\P4_Client.exe
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\bin\Debug\P4_Client.pdb
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\obj\Debug\P4_Client.Form1.resources
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\obj\Debug\P4_Client.Properties.Resources.resources
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\obj\Debug\P4_Client.csproj.GenerateResource.Cache
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\obj\Debug\P4_Client.exe
+C:\Users\rtn5645\Desktop\rtn5645_dph9409\P4_Client\P4_Client\obj\Debug\P4_Client.pdb
